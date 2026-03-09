@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tanuj Kaushik 👋
 
-<!--
-**TanujKaushik/TanujKaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏥 Public Health | Health IT | Data Analytics
 
-Here are some ideas to get you started:
+4+ years in public health programs across RMNCH, immunization, 
+HIV, and nutrition. Currently building skills in data analytics 
+and AI tools for healthcare implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Domain:** M&E, Implementation Research, Health Systems
+- **Data:** SQL, Python, Power BI
+- **Tools:** REDCap, SPSS, Stata, CSPro
+
+## 🚀 Currently Learning
+- Advanced SQL for health data analysis
+- Python for data automation
+- Agentic AI for Health IT
+
+## 📌 Projects (Building)
+- District Health Performance Dashboard (SQL + Power BI)
+- IFA Adherence Predictor (Python)
+- EHR Readiness Assessment Tool (Python + Streamlit)
+
+## 📫 Connect
+- LinkedIn: linkedin.com/in/tanujkaushik
+- Email: tj24kaushik@gmail.com
